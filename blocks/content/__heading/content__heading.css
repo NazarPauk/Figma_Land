@@ -1,0 +1,7 @@
+.content__heading{
+    width: 288px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
