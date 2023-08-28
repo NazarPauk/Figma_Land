@@ -1,0 +1,6 @@
+.gallery__card-item{
+    position: relative;    
+    overflow: hidden;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 3%;
+}

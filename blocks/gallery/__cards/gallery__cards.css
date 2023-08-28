@@ -1,0 +1,7 @@
+.gallery__cards{
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-rows: repeat(2, auto);
+    width: 1087px;
+    height: auto;
+}

@@ -1,0 +1,7 @@
+.gallery__cards-grid_top{
+    display: grid;
+    grid-template-columns: repeat(4, 225px);
+    grid-template-rows: 285px;
+    gap: 33px;
+    margin: 0 auto;
+}
