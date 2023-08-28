@@ -1,0 +1,7 @@
+.partners__brands{
+    display: grid;
+    grid-template-columns: repeat(5, 60px) 150px;
+    grid-template-rows: 60px;
+    gap: 74px;
+    margin-bottom: 50px;
+}
