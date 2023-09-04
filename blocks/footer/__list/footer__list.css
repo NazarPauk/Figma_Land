@@ -1,0 +1,12 @@
+.footer__list{
+    color: var(--light-text, #FFF);
+    /* Link */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.2px;
+}
+
+.footer__list li{
+    margin-bottom: 19px;}

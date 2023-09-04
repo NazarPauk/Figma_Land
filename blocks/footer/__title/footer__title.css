@@ -1,0 +1,9 @@
+.footer__title{
+    color: var(--light-text, #FFF);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 150% */
+    letter-spacing: 0.1px;
+    margin-bottom: 40px;
+}
