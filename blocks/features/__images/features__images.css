@@ -4,3 +4,10 @@
   position: relative;
   padding: 0px 28px 100px;
 }
+
+@media(max-width:480px){
+  .features__images{
+    width: 376px;
+    height: 406px;
+  }
+}

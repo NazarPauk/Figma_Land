@@ -2,3 +2,9 @@
     width: 585px;
     height: 370px;
 }
+
+@media(max-width:768px){
+    .cta__image{
+        margin: 0 auto;
+    }
+}

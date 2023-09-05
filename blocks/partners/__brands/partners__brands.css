@@ -5,3 +5,9 @@
     gap: 74px;
     margin-bottom: 50px;
 }
+
+@media(max-width:768px){
+    .partners__brands{
+        grid-template-columns: repeat(3, 60px) ;
+}
+}

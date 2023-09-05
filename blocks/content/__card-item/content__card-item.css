@@ -16,3 +16,10 @@
 .content__card-item:first-child{
     gap: 57px;
 }
+
+@media(max-width:768px){
+    .content__card-item{
+        width: 353px;
+        height: 498px;
+    }
+}

@@ -5,3 +5,18 @@
   position: absolute;
   bottom: 0;
 }
+
+@media(max-width:768px){
+  .header__gradient{
+    width: 100%;
+    height: 328px;
+    flex-shrink: 0;
+  }
+}
+
+@media(max-width:480px){
+  .header__gradient{
+    width: 100%;
+    height: 328px;
+  }
+}

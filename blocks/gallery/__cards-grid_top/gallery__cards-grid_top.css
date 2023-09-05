@@ -5,3 +5,9 @@
     gap: 33px;
     margin: 0 auto;
 }
+
+@media(max-width:768px){
+    .gallery__cards-grid_top{
+        grid-template-columns: repeat(1, 355px);
+    }
+}

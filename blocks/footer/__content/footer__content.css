@@ -3,3 +3,9 @@
     grid-template-columns: repeat(2, auto);
     gap: 199px;
 }
+
+@media(max-width:768px){
+    .footer__content{
+        grid-template-columns: repeat(1,auto);
+    }
+}

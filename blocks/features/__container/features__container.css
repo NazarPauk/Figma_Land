@@ -1,6 +1,12 @@
 .features__container{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
   margin-top: 80px;
 }
+
+@media(max-width:768px){
+  .features__container{
+    grid-template-columns: repeat(1, auto);
+  }
+}
+

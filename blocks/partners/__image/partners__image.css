@@ -1,3 +1,8 @@
 .partners__image{
     object-fit: cover;
 }
+
+.partners__image_last-child{
+    width: 83px;
+    height: 33px;
+}

@@ -1,5 +1,11 @@
 .content__cards{
-    display: flex;
-    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
     gap: 33px;
+}
+
+@media(max-width:768px){
+    .content__cards{
+        grid-template-columns: repeat(1, auto);
+    }
 }

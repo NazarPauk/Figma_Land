@@ -6,3 +6,9 @@
     height: auto;
     margin-bottom: 44px;
 }
+
+@media(max-width:768px){
+    .gallery__cards{
+        grid-template-rows: repeat(1,auto);
+    }
+}

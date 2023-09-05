@@ -2,5 +2,11 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 97px;
+}
 
+@media(max-width:768px){
+    .footer__rows{
+        grid-template-columns: repeat(1,1fr);
+        margin: 0 auto;
+    }
 }

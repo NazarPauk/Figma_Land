@@ -6,3 +6,9 @@
   padding: 54px 0px;
   list-style-type: none;
 }
+
+@media(max-width:768px){
+  .features__list{
+    margin: 0 auto;
+  }
+}
