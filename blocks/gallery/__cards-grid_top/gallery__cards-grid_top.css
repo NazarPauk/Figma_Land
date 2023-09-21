@@ -9,5 +9,6 @@
 @media(max-width:768px){
     .gallery__cards-grid_top{
         grid-template-columns: repeat(1, 355px);
+        grid-template-rows: repeat(4, 355px);
     }
 }

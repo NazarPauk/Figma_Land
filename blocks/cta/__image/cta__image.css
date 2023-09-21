@@ -5,6 +5,7 @@
 
 @media(max-width:768px){
     .cta__image{
+        width: 480px;
         margin: 0 auto;
     }
 }

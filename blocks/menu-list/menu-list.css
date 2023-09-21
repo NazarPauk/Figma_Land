@@ -6,3 +6,10 @@
   gap: 40px;
 }
 
+@media(max-width:768px){
+  .menu-list{
+    display: absolute;
+    opacity: 0;
+    width: 0;
+  }
+}
