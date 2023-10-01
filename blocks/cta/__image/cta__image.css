@@ -9,3 +9,11 @@
         margin: 0 auto;
     }
 }
+
+@media(max-width:549px){
+    .cta__image{
+        display: flex;
+        justify-content: center;
+        margin-top: 60px;
+    }
+}
