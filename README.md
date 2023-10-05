@@ -3,7 +3,7 @@ A site that tells about a mobile application
 [GitHub page link](https://nazarpauk.github.io/Figma_Land/)
 
 ## Purpose of creation:
-    Optimizing images for various screen sizes, improving accessibility for people with disabilities using alt and aria-label attributes.
+Optimizing images for various screen sizes, improving accessibility for people with disabilities using alt and aria-label attributes.
 ## Tecnologies  
 HTML5 | CSS3 | BEM Nested | CSS Animations 
 ## Project Structure  
