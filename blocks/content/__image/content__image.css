@@ -1,7 +1,5 @@
-
-@media(max-width:768px){
-    .content__image{
-        width: 289px;
-        height: 200px;
-    }
-    }
+.content__image {
+    border-radius: 14px;
+    overflow: hidden;
+    object-fit: cover;
+}

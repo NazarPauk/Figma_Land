@@ -1,0 +1,11 @@
+.content__image_size_large{
+    width: 379px;
+    height: 276px;
+}
+
+@media(max-width: 768px){
+    .content__image_size_large{
+        width: 280px;
+        height: 204px;
+    }
+}

@@ -9,4 +9,11 @@
 }
 
 .footer__list li{
-    margin-bottom: 19px;}
+    margin-bottom: 19px;
+    transition: all linear 0.3s;
+}
+
+.footer__list li:hover{
+    opacity: 0.7;
+}
+        

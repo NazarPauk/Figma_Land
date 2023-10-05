@@ -1,0 +1,11 @@
+.content__image_size_medium {
+    width: 405px;
+    height: 226px;
+}
+
+@media(max-width: 768px) {
+    .content__image_size_medium {
+        width: 297px;
+        height: 175px;
+    }
+}
