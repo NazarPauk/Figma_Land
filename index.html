@@ -83,11 +83,17 @@
               <p class="content__text">Ever wondered if you're too reliant on a client for work? Slate helps you identify .</p>  
             </div>
             <a href="" class="blue-button">Sign Up</a>
-              <picture>
-                <source srcset="images_phone/Macbook_Pro_mob.png" media="(max-width:549px)">
-                <img src="images/Macbook Pro.png" alt="MacBook" class="content__image content__image_size_medium">
-              </picture>
-          </div>
+            <picture>
+              <source type="image/webp" media="(min-width: 549px)" srcset="images_phone/laptop-desktop.webp">
+              <source type="image/webp" srcset="images_phone/laptop-mobile.webp">
+              <source media="(min-width: 549px)" srcset="images_phone/laptop-desktop.png">
+              <img
+                class="content__image contents-card__image_size_large"
+                src="images/laptop-mobile.png"
+                alt="Laptop with Figma Land's transaction report opened on screen"
+              >
+            </picture>
+        </div>
           <div class="content__card-item">
 
             <div class="content__heading">
@@ -95,11 +101,18 @@
               <p class="content__text">Ever wondered if you're too reliant on a client for work? Slate helps you identify .</p>
             </div>            
             <a href="" class="blue-button">Try For Free</a>
-              <picture>
-                <source srcset="images_phone/Boards_Notifications_mob.png" media="(max-width:549px)">
-                <img src="images/Boards Notifications.png" alt="" class="content__image content__image_size_large">
-              </picture>
-          </div>
+            <picture>
+              <source type="image/webp" media="(min-width: 549px)" srcset="images_phone/dashboard-desktop.webp">
+              <source type="image/webp" srcset="images_phone/dashboard-mobile.webp">
+              
+              <source media="(min-width: 549px)" srcset="images_phone/dashboard-desktop.jpg">
+              <img 
+                class="content__image contents-card__image_size_large"
+                src="images/dashboard-mobile.jpg"
+                alt="Figma Land's dashboard"
+              >
+            </picture>
+        </div>
         </div>
       </section>
       
