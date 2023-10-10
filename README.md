@@ -1,10 +1,26 @@
 # Figmaland
 A site that tells about a mobile application
 [GitHub page link](https://nazarpauk.github.io/Figma_Land/)
-
-## Purpose of creation:
+## Navigation
+- [Figmaland](#figmaland)
+  - [Navigation](#navigation)
+  - [Project Objective:](#project-objective)
+  - [Source Links](#source-links)
+  - [Technologies](#technologies)
+  - [Project Structure](#project-structure)
+  - [Maket](#maket)
+  - [Installation](#installation)
+  - [Contributing](#contributing)
+  - [Making Contributions](#making-contributions)
+  - [Creating a Pull Request](#creating-a-pull-request)
+  - [Contact](#contact)
+  - [License](#license)
+## Project Objective:
 Optimizing images for various screen sizes, improving accessibility for people with disabilities using alt and aria-label attributes.
-## Tecnologies  
+## Source Links
+- [Tag picture](https://doka.guide/html/picture/)
+- [Interface accessibility](https://www.youtube.com/watch?v=ssJsjGZE2sc)
+## Technologies  
 HTML5 | CSS3 | BEM Nested | CSS Animations 
 ## Project Structure  
 + Header
@@ -13,8 +29,10 @@ HTML5 | CSS3 | BEM Nested | CSS Animations
 + Gallery
 + Partners
 + Cta
-
 + Footer
+
+## Maket 
+[Figmaland](https://www.figma.com/file/gEzUlX7J4TCABGzFq4oGua/Figma-Land?type=design&node-id=0-3517&mode=design&t=ejp5HTa7ZoDZfGYT-0)
 ## Installation  
 1. **Fork** the repository by clicking the "Fork" button at the top right of the repository page. This will create a copy of the repository in your GitHub account.  
 2. **Clone** your forked repository to your local machine:
@@ -27,8 +45,10 @@ Enter the project directory
 cd Figmaland
 ```
 ## Contributing  
-Welcome to the **Figmaland** repository! We're glad you're interested in contributing. Your contributions help make this project better for everyone. Here's how you can get started:  
-### Getting Started
+Welcome to the **Figmaland** repository! We're glad you're interested in contributing. Your contributions help make this project better for everyone. Here's how you can get started: 
+
+**Getting Started**
+
 Create a new branch for your contribution:
 ## Making Contributions
 1. Create a new branch for your contribution:
