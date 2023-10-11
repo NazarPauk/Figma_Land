@@ -50,6 +50,7 @@
 @import url(../blocks/content/__image/_size/content__image_size_medium.css);
 @import url(../blocks/content/__image/_size/content__image_size_large.css);
 @import url(../blocks/content/__image/content__image.css);
+@import url(../blocks/content/__inner-wrapper/content-card__inner-wrapper.css);
 
 
 
