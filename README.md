@@ -63,7 +63,7 @@ Create a new branch for your contribution:
 4. Click "Create Pull Request" to submit your changes for review.
 ## Contact
 If you have questions, suggestions, or need assistance, you can reach out to us:
-- Email: nazarpauk.5@gmail.com
+- Email: nazarpauk5@gmail.com
 - GitHub: [NazarPauk](https://github.com/NazarPauk)
 Thank you for your contributions to **Figmaland**! Together, we're making this project even better.
 ## License
